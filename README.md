@@ -13,13 +13,9 @@ Explainer
 
 # PART 1 - COLLECT IMAGES & ANNOTATE
 
-1.1 Breakdown Board
+1.1 Setting up and Getting Data
 
-  Understanding the annotation board and its components.
-
-1.2 Setting up and Getting Data
-
-   Explanation of image collection and dataset acquisition.
+   Image collection and dataset acquisition.
 
 
 # PART 2 - PARTITION & AUGMENT DATA
@@ -33,8 +29,6 @@ Explainer
    Splitting the dataset into training and testing sets.
 
 2.3 Apply Image Augmentation on Images and Labels
-
-   Introduction to image augmentation techniques for enhanced model training.
 
 2.4 Build and Run Augmentation Pipeline
 
@@ -69,17 +63,17 @@ Explainer
 # Usage
 
 Follow the chapters sequentially to understand the process of building a face detection model. The code is provided in Python using TensorFlow.
-Prerequisites
+
+# Prerequisites
 
   Ensure you have Python installed on your system.
-  Install the required libraries using:
+  Install the required libraries.
 
 
 # Running the Code
 
   Execute the notebooks or scripts in each part in the specified order.
   Adjust parameters as needed for your specific use case.
-  Follow the guidance provided in comments within the code.
 
 # Contributing
 
